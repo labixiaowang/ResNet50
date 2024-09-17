@@ -19,8 +19,10 @@ cuda 11.0
 * 提取码：1234
 ## 模型展示
 * 整体结构
-！[模型结构](Resnent50_SE.png)
+
+！[模型结构](Resnet50_SE _2.png)
 
 * 细分结构
-  [SE结构](Resnet50_SE_2.png)
+
+！[SE结构](Resnet50_SE _2.png)
   
