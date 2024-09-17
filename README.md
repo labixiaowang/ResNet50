@@ -13,3 +13,6 @@ cuda 11.0
 
 ## 使用Resnet和 Squeeze-and-Excitation(SE)结合使用
 * Resnet50_SE.py:Resnet50与SE的结合
+
+## 数据集下载
+
