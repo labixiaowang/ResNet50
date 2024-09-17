@@ -1,7 +1,7 @@
 ## 环境
-python 3.8.10
-pytorch 1.7.0
-cuda 11.0
+* python 3.8.10
+* pytorch 1.7.0
+* cuda 11.0
 
 ## 使用ResNet50进行垃圾分类
 * resnet50.py:ResNet50模型。
@@ -20,10 +20,10 @@ cuda 11.0
 ## 模型展示
 * 整体结构
 
-！[模型结构](https://raw.githubusercontent.com/labixiaowang/ResNet50/master/Resnet50_SE.png)
+![模型结构](https://raw.githubusercontent.com/labixiaowang/ResNet50/master/Resnet50_SE.png)
 
 * 细分结构
 
-！[SE所在位置](https://raw.githubusercontent.com/labixiaowang/ResNet50/master/Resnet50_SE%20_2.png)
-！[SE结构](https://raw.githubusercontent.com/labixiaowang/ResNet50/master/Resnet50_SE_3.png)
+![SE所在位置](https://raw.githubusercontent.com/labixiaowang/ResNet50/master/Resnet50_SE%20_2.png)
+![SE结构](https://raw.githubusercontent.com/labixiaowang/ResNet50/master/Resnet50_SE_3.png)
   
