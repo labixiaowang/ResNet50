@@ -1,3 +1,8 @@
+## 环境
+python 3.8.10
+pytorch 1.7.0
+cuda 11.0
+
 ## 使用ResNet50进行垃圾分类
 * resnet50.py:ResNet50模型。
 * Customdata.py:对图像进行预处理，让图像transform成规定的shape,并且返回对应的标签。
