@@ -4,3 +4,7 @@
 * path_and_target.py:从指定文件夹中获取图片`.jpg`的路径,将有效的写入`valid.txt`中，无效的文件写入`invalid.txt`中。
 * train.py:训练代码
 * test.py:测试代码
+
+
+## 使用Resnet和 Squeeze-and-Excitation(SE)结合使用
+* Resnet50_SE.py:Resnet50与SE的结合
